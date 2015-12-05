@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android\AndroidStudioProjects\Recorder2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a1af83a872b0dd0b2725a51ea6c40880ed6dd1b">
+        <dex dex="D:\android\AndroidStudioProjects\Recorder2\app\build\intermediates\pre-dexed\debug\instant-run_e4f97a2ccb36ae7f2294a60e8271a7b162b333d8.jar" />
+    </item>
+    <item
+        jar="D:\android\AndroidStudioProjects\Recorder2\app\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="320cafe6747a526c06178137651d4b2c657e460e">
+        <dex dex="D:\android\AndroidStudioProjects\Recorder2\app\build\intermediates\pre-dexed\debug\classes_4582df8362057300cd1baada607f8d7a8eafb756.jar" />
+    </item>
+
+</items>
